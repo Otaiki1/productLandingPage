@@ -31,7 +31,8 @@
 .boxes{
     display: flex;
     justify-content: space-between;
-    width: 70%;
+    flex-wrap: wrap;
+    width: 100%;
     margin: auto;
 }
 .box2{
